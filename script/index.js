@@ -1,0 +1,1 @@
+"use strict";var banner=document.querySelector(".banner");alert(1);
